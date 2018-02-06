@@ -1,0 +1,6 @@
+c:\users\asim mughni\documents\visual studio 2013\Projects\CategoryProblem\CategoryProblem\bin\Debug\CategoryProblem.exe.config
+c:\users\asim mughni\documents\visual studio 2013\Projects\CategoryProblem\CategoryProblem\bin\Debug\CategoryProblem.exe
+c:\users\asim mughni\documents\visual studio 2013\Projects\CategoryProblem\CategoryProblem\bin\Debug\CategoryProblem.pdb
+c:\users\asim mughni\documents\visual studio 2013\Projects\CategoryProblem\CategoryProblem\obj\Debug\CategoryProblem.csprojResolveAssemblyReference.cache
+c:\users\asim mughni\documents\visual studio 2013\Projects\CategoryProblem\CategoryProblem\obj\Debug\CategoryProblem.exe
+c:\users\asim mughni\documents\visual studio 2013\Projects\CategoryProblem\CategoryProblem\obj\Debug\CategoryProblem.pdb
